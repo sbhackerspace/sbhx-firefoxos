@@ -1,0 +1,17 @@
+{
+    "name": "Check Battery",
+    "description": "This app allows you to check your battery levels!",
+    "launch_path": "/index.html",
+    "developer": {
+        "name": "TechTonik Labs",
+        "url": "https://twitter.com/sbhackerspace"
+    },
+    "icons": {
+        "16": "/img/icon16.png",
+        "32": "/img/icon32.png",
+        "48": "/img/icon48.png",
+        "64": "/img/icon64.png",
+        "128": "/img/icon128.png"
+    },
+    "default_locale": "en"
+}
